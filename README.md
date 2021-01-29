@@ -42,7 +42,9 @@
   </p>                                                                </p>
   
   
-  ## T-Tests on Suspension Coils
+ ## T-Tests on Suspension Coils
+ 
+ **- Summary of interpretation and findings for the t-test results**
   
   
   # All lots T-test                                                
