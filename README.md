@@ -33,11 +33,11 @@
   
 
 
-<p align="left">                                                          
-  <img src="/Images/total_summary.png" width="500">
-  </p> <p align="right">
-  <img src="/Images/lot_summary.png" width="500">
-  </p>
+<p align="left">                                                  <p align="right">                                                         
+  <img src="/Images/total_summary.png" width="500">                   <img src="/Images/lot_summary.png" width="500">
+  </p>                                                                </p>
+  
+  
   
   
   
