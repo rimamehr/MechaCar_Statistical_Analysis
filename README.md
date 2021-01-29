@@ -34,7 +34,10 @@
   we look at each lot individually in our lot_summary table, we notice that the lot1 and lot2 meet the design specification but the lot3 has a variance of 170.286 which is higher 
   than the acceptable limit.
   
-  
+ <p float="left">
+  <img src="/Images/total_summary.png" width="500" />
+  <img src="/Images/lot_summary.png" width="500" /> 
+</p> 
 
 
 <p align="left"> <img src="/Images/total_summary.png" width="500"> </p> <p align="right"> <img src="/Images/lot_summary.png" width="500"> </p>                                                                
