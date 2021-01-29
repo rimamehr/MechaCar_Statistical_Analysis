@@ -52,7 +52,7 @@
   
   
   # Lot1 T-test
-  <p align="right">
+  <p align="left">
    <img src="/Images/ttest_lot1.png" width="500">
   
   
@@ -63,6 +63,6 @@
   
   
   # Lot3 T-test
-  <p align="right"> 
+  <p align="left"> 
   <img src="/Images/ttest_lot3.png" width="500">
   </p>
