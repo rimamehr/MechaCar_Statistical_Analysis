@@ -16,9 +16,9 @@
   
 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
-  Our R-squared value is what predicts the effectiveness of our model. R-squared is always between 0 and 100%. With a R-squared value of 0.7149 our analysis above can predict the 
-  mpg of MechaCar protypes effectively about 71.49%. This means, there are other variables and factors that contribute to the variation in mpg that have not been included in our 
-  model. These variables may or may not be within our dataset and may still need to be collected or observed.
+  Our R-squared value is what predicts the effectiveness of our model. R-squared is always between 0 and 100%. With a R-squared value of 0.7149 in our analysis below can predict
+  the mpg of MechaCar protypes effectively about 71.49%. This means, there are other variables and factors that contribute to the variation in mpg that have not been included in
+  our model. These variables may or may not be within our dataset and may still need to be collected or observed.
   
   <p align="left">
   <img src="/Images/Deliverable_1_output.png" width="500">
