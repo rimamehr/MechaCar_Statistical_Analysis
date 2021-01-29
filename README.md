@@ -42,17 +42,27 @@
   </p>                                                                </p>
   
   
+  ## T-Tests on Suspension Coils
   
   
-  
-  # All lots T-test                                                 # Lot1 T-test
-  <p align="left">                                                  <p align="right">                                                         
-  <img src="/Images/ttest_all.png" width="500">                   <img src="/Images/ttest_lot1.png" width="500">
-  </p>                                                                </p>
-  
-  # Lot2 T-test                                                     # Lot3 T-test
-  <p align="left">                                                  <p align="right">                                                         
-  <img src="/Images/ttest_lot2.png" width="500">                   <img src="/Images/ttest_lot3.png" width="500">
-  </p>                                                                </p>
+  # All lots T-test                                                
+  <p align="left">                                                                                                 
+  <img src="/Images/ttest_all.png" width="500">                   
+  </p>                                                                
   
   
+  # Lot1 T-test
+  <p align="right">
+   <img src="/Images/ttest_lot1.png" width="500">
+  
+  
+  # Lot2 T-test                                                     
+  <p align="left">                                                                                                          
+  <img src="/Images/ttest_lot2.png" width="500">                   
+  </p>                                                                
+  
+  
+  # Lot3 T-test
+  <p align="right"> 
+  <img src="/Images/ttest_lot3.png" width="500">
+  </p>
