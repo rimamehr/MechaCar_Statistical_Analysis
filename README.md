@@ -42,20 +42,19 @@
   
  ## T-Tests on Suspension Coils
  
- - Summary of interpretation and findings for the t-test results
+ **- Summary of interpretation and findings for the t-test results**
  
- Below are the t-tests for overall and **all three lots** individually. From the output, the p-value for lot1 is greater than the significance level 0.05 implying that the
- distribution of the data is not significantly different from normal distribtion. In other words, we can assume the normality.
+  -- Below are the t-tests for overall and **all three lots** individually. From the output, the p-value for lot1 is greater than the significance level 0.05 implying that the
+      distribution of the data is not significantly different from normal distribtion. In other words, we can assume the normality.
  
- From the output, the p-value for **lot1** is also greater than the significance level 0.05 implying that the distribution of the data is not significantly different from normal
- distribtion. In other words, we can assume the normality.
+  -- From the output, the p-value for **lot1** is also greater than the significance level 0.05 implying that the distribution of the data is not significantly different from
+      normal distribtion. In other words, we can assume the normality.
  
- From the output, the p-value for **lot2** is greater than the significance level 0.05 implying that the
- distribution of the data are not significantly different from normal distribtion. In other words, we can assume the normality.
+  -- From the output, the p-value for **lot2** is greater than the significance level 0.05 implying that the
+     distribution of the data are not significantly different from normal distribtion. In other words, we can assume the normality.
  
- From the output, the p-value for **lot3** is less than the significance level 0.05 implying that the
- distribution of the data is significantly different from normal distribtion. In other words, we cannot assume the normality.
-
+  -- From the output, the p-value for **lot3** is less than the significance level 0.05 implying that the
+     distribution of the data is significantly different from normal distribtion. In other words, we cannot assume the normality.
 
   
   # All lots T-test                                                
