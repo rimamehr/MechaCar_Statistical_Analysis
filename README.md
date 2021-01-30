@@ -81,3 +81,5 @@
   <p align="left"> 
   <img src="/Images/ttest_lot3.png" width="500">
   </p>
+  
+  ## Study Design: MechaCar vs Competition
