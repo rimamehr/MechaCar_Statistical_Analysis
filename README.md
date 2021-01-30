@@ -55,6 +55,9 @@
  
   -- From the output, the p-value for **lot3** is less than the significance level 0.05 implying that the
      distribution of the data is significantly different from normal distribtion. In other words, we cannot assume the normality.
+     
+  **-- So we can conclude from our overall results and the one for lot1 and lot2, the data is considered to have normal distribution.Therefore, we do not have sufficient evidence to
+     reject the null hypothesis, and we would state that the two means are statistically similar.**
 
   
   # All lots T-test                                                
