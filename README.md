@@ -46,40 +46,48 @@
  
   -- Below are the t-tests for overall and **all three lots** individually. From the output, the p-value for lot1 is greater than the significance level 0.05 implying that the
       distribution of the data is not significantly different from normal distribtion. In other words, we can assume the normality.
+      
+       # All lots T-test                                                
+  <p align="left">                                                                                                 
+  <img src="/Images/ttest_all.png" width="500">                   
+  </p>    
  
   -- From the output, the p-value for **lot1** is also greater than the significance level 0.05 implying that the distribution of the data is not significantly different from
       normal distribtion. In other words, we can assume the normality.
+      
+       # Lot1 T-test
+  <p align="left">
+   <img src="/Images/ttest_lot1.png" width="500">
  
   -- From the output, the p-value for **lot2** is greater than the significance level 0.05 implying that the
      distribution of the data are not significantly different from normal distribtion. In other words, we can assume the normality.
+     
+     # Lot2 T-test                                                     
+  <p align="left">                                                                                                          
+  <img src="/Images/ttest_lot2.png" width="500">                   
+  </p> 
  
   -- From the output, the p-value for **lot3** is less than the significance level 0.05 implying that the
      distribution of the data is significantly different from normal distribtion. In other words, we cannot assume the normality.
+     
+      # Lot3 T-test
+  <p align="left"> 
+  <img src="/Images/ttest_lot3.png" width="500">
+  </p>
      
   **-- So we can conclude from our overall results and the one for lot1 and lot2, the data is considered to have normal distribution.Therefore, we do not have sufficient evidence to
      reject the null hypothesis, and we would state that the two means are statistically similar.**
 
   
-  # All lots T-test                                                
-  <p align="left">                                                                                                 
-  <img src="/Images/ttest_all.png" width="500">                   
-  </p>                                                                
+                                                             
   
   
-  # Lot1 T-test
-  <p align="left">
-   <img src="/Images/ttest_lot1.png" width="500">
+ 
   
   
-  # Lot2 T-test                                                     
-  <p align="left">                                                                                                          
-  <img src="/Images/ttest_lot2.png" width="500">                   
-  </p>                                                                
+                                                                 
   
   
-  # Lot3 T-test
-  <p align="left"> 
-  <img src="/Images/ttest_lot3.png" width="500">
-  </p>
+ 
   
   ## Study Design: MechaCar vs Competition
