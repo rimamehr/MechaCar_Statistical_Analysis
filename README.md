@@ -75,21 +75,28 @@
   <img src="/Images/ttest_lot3.png" width="500">
   </p>
      
-  **-- So we can conclude from our overall results and the one for lot1 and lot2, the data is considered to have normal distribution.Therefore, we do not have sufficient evidence to
+  **-- So we can conclude from our overall results and the one for lot1 and lot2, the data is considered to have normal distribution.Therefore, we do not have sufficient evidence
+  to
      reject the null hypothesis, and we would state that the two means are statistically similar.**
 
   
   ## Study Design: MechaCar vs Competition
 
-Here, we are comparing how the MechaCar performs against its competition. There are certain metrics that would be of interest to a consumer like cost, city or highway fuel efficiency, horse power, maintenance cost, safety rating, color (The most popular color, according to data provided by iSeeCars.com, is white, followed closely by black. Then gray, then silver). In order to do this we want to answer four different questions which are:
+Here, we are comparing how the MechaCar performs against its competition. There are certain metrics that would be of interest to a consumer like cost, city or highway fuel
+efficiency, horse power, maintenance cost, safety rating, color (The most popular color, according to data provided by iSeeCars.com, is white, followed closely by black. Then
+gray, then silver). In order to do this we want to answer four different questions which are:
 
 ### What metric or metrics are you going to test? ###
-The metric that I would like to test if cost. I would be interested in analysis how competitively does MechaCar price its car by model and features in comparison to their competitors.
+The metric that I would like to test is cost. I would be interested in analyzing how competitively does MechaCar price its car by various categories in comparison to their
+competitors.
 ### What is the null hypothesis or alternative hypothesis? ###
-The null hypothesis is that the researcher's prediction is not true. In this case we would predict that MechaCar has its car similarly priced to its competitors. The alternative hypothesis is that the researcher's predicted difference is true.
+The null hypothesis is that the researcher's prediction is not true. In this case we would predict that MechaCar has its car similarly priced to its competitors. The alternative
+hypothesis is that the researcher's predicted difference is true.
 
 ### What statistical test would you use to test the hypothesis? And why? ###
 In this case we could perform a sample t-test which will give us a way to decide between a null hypothesis and an alternative hypothesis.
  
 ### What data is needed to run the statistical test? ###
-We would take a sample data for cars of similar make and model between MechaCar and its competitors to perform a t-test. From the output, we could compare the the p-value for Mechacar and its competitors to see if it is greater than the significance level 0.05 implying that the distribution of the data is not significantly different from normal distribtion. In other words, we can assume the normality.
+We would take a sample data with certain features between MechaCar and its competitors to perform a t-test. From the output, we could compare the the p-value for Mechacar and its
+competitors to see if it is greater than the significance level 0.05 implying that the distribution of the data is not significantly different from normal distribtion. In other
+words, we can assume the normality and the fact that Mechacar has its vehicle priced similar to its competition. 
